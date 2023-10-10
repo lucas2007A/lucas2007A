@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vindas ao me perfil 🖤
 
-<!--
-**lucas2007A/lucas2007A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e lucas edilson de almeida
 
-Here are some ideas to get you started:
+- estou estudando na alura;
+- estou me densevolvendo na linguagem JavaScript
+- ultilizo esse espaço para minha organizaçao e compartinhamento dos meus meus projeos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entra encontato comigo📫
+
+lucas.edilson.almeida@escola.pr.gov.br
+
+
+
+![]() https://media.tenor.com/0yDUUd3_0wAAAAAM/dragon-ball-dragon-ball-z.gif
